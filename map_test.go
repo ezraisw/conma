@@ -64,10 +64,10 @@ func TestMap(t *testing.T) {
 					condition.FieldCheck("Name", condition.Eq("<placeholder>")),
 				),
 			),
-			Mapper: mapping.MapperFunc(func(x interface{}) interface{} {
+			Mapper: func(x interface{}) interface{} {
 				d := x.(exampleStruct)
 				return d.Message
-			}),
+			},
 		},
 	})
 
