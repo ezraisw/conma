@@ -3,7 +3,7 @@ package condition_test
 import (
 	"testing"
 
-	"github.com/pwnedgod/conma/condition"
+	"github.com/ezraisw/conma/condition"
 )
 
 func TestCheckDeepEq(t *testing.T) {

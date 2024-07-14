@@ -3,9 +3,9 @@ package conma_test
 import (
 	"testing"
 
-	"github.com/pwnedgod/conma"
-	"github.com/pwnedgod/conma/condition"
-	"github.com/pwnedgod/conma/mapping"
+	"github.com/ezraisw/conma"
+	"github.com/ezraisw/conma/condition"
+	"github.com/ezraisw/conma/mapping"
 	"github.com/stretchr/testify/assert"
 )
 

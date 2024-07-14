@@ -1,4 +1,4 @@
-module github.com/pwnedgod/conma
+module github.com/ezraisw/conma
 
 go 1.14
 

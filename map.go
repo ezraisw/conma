@@ -1,8 +1,8 @@
 package conma
 
 import (
-	"github.com/pwnedgod/conma/condition"
-	"github.com/pwnedgod/conma/mapping"
+	"github.com/ezraisw/conma/condition"
+	"github.com/ezraisw/conma/mapping"
 )
 
 type Entry struct {
